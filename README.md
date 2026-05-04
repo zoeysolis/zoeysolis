@@ -49,9 +49,11 @@
       <h4 style="color: #4361ee;">⏳ 2do Año (Cursando)</h4>
       <ul style="font-size: 0.85em; color: #ccc;">
         <li>POO</li>
-        <li><b>Estructura de Datos</b></li>
-        <li><b>Desarrollo Web Full Stack</b></li>
-        <li>Taller de Inglés</li>
+        <li>Estructura de Datos</li>
+        <li>Desarrollo Web Full Stack</li>
+        <li>Inglés</li>
+        <li>Electronia</li>
+        <li>Data Science</li>
       </ul>
     </td>
   </tr>
