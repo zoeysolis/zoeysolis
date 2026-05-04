@@ -5,11 +5,11 @@
       <img src="1777908943195.jpg" width="160" style="border-radius: 25px; border: 3px solid #F4A261; box-shadow: 0 8px 25px rgba(114, 9, 183, 0.3);" />
     </td>
     <td valign="top" style="padding-left: 25px;">
-      <h1 style="color:#F4A261; border-bottom: none; margin-bottom: 5px;">Zoe Solis</h1>
-      <p style="color: #7209b7; font-weight: bold; margin-top: 0;">Profesora de Programación & Robótica | Estudiante de Gestión IT</p>
+      <h1 style="color:#F4A261; border-bottom: none; margin-bottom: 5px;">Hola! soy Zoe</h1>
+      <p style="color: #7209b7; font-weight: bold; margin-top: 0;">Programación & Robótica | Estudiante de Gestión IT | Desarrollo de Software</p>
       <p style="color: #ccc; font-size: 0.95em; line-height: 1.4;">
         Analizo sistemas para entender cómo funcionan, cómo fallan y cómo pueden mejorarse. 
-        Mi enfoque une la <b>lógica matemática</b> con la <b>electrónica aplicada</b>.
+        Mi enfoque une la <b>lógica programática</b> con la <b>electrónica aplicada</b>.
       </p>
       <img src="https://img.shields.io/badge/Status-Cursando_2do_Año-4361ee?style=flat-square" />
       <img src="https://img.shields.io/badge/Focus-Sistemas_y_Lógica-7209b7?style=flat-square" />
@@ -49,6 +49,8 @@
         <li>Matemáticas Discretas</li>
         <li>Sistemas Operativos</li>
         <li>Redes de Datos</li>
+        <li>Metodologías ágiles</li>
+        <li>Programación I.....</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -66,20 +68,20 @@
 ---
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/1085/1085461.png" width="20"/> Faceta Docente & Laboratorio
-**Profesora de Programación y Robótica**
+**Skills**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,arduino,raspberrypi,mysql,js,html,css&theme=dark" />
 </p>
 
 - **Laboratorio:** Sensores, Microcontroladores y Circuitos Analógicos.
-- **Enseñanza:** Pensamiento computacional para secundarios y universitarios.
+- **Enseñanza:** Pensamiento computacional y electronia para secundarios y universitarios.
 
 ---
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/2532/2532161.png" width="20"/> Compromiso & Intereses
-- 🌿 **Voluntaria en Greenpeace:** Acción y conciencia ambiental.
-- 🎓 **Consejera Superior (UNPilar):** Gestión y representación en la Facultad de Tecnología.
+- 🌿 **Voluntaria en Greenpeace** 
+- 🎓 **Consejera Superior de la Facultad de Tecnología y Desarrollo (UNPilar)** 
 - 🏛️ **Democracia de Datos:** Seguimiento de procesos legislativos.
 
 ---
