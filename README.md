@@ -91,11 +91,12 @@
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="20"/> Proyectos Destacados
 
+- **[Simulador de Cajero Automático](https://github.com/zoeysolis/simulador-cajero-poo):** Aplicación financiera desarrollada con wxPython que implementa lógica de transacciones, validación de fondos y encapsulamiento de datos bajo el paradigma POO.
 - **[Conversor de Bases Numéricas](https://github.com/zoeysolis/conversor-bases-arquitectura):** Herramienta desarrollada en Python y wxPython que realiza conversiones entre sistemas decimales, binarios, hexadecimales y octales, validando la lógica de arquitectura de computadoras.
 - **[Analizador de Números Primos](https://github.com/zoeysolis/analizador-matematico-poo):** Aplicación con interfaz gráfica en wxPython que aplica lógica de teoría de números y POO para la descomposición factorial y validación de primacidad.
 - **[Binomio de Newton en Python](https://github.com/zoeysolis/binomio-newton-python):** Script de lógica matemática para el desarrollo de binomios paso a paso.
 - **[Gestión de Inventario CRUD](https://github.com/zoeysolis/inventario-python-crud):** Sistema de administración de stock con persistencia en SQLite3 y validación de datos.
-- **Recursos Docentes:** Repositorio en construcción con guías y ejercicios de Python y Robótica.
+
 
 ###  Contacto
 <p align="center">
