@@ -31,7 +31,7 @@
   <font color="#A0522D"><i>Cargando futuro profesional...</i></font>
 </p>
 
-<table width="100%" border="0">
+<table width="100%" border="0" style="margin: 0 auto;">
   <tr>
     <td width="33%" valign="top">
       <h4 style="color: #F4A261;">✅ 1er Año (Promocionado)</h4>
