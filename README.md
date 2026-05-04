@@ -1,97 +1,68 @@
+<div align="center">
+  <!-- Encabezado con imagen circular y sombra suave -->
+  <img src="1777908943195.jpg" width="150" style="border-radius: 50%; border: 3px solid #F4A261; box-shadow: 0 4px 20px rgba(0,0,0,0.4);" />
+  
+  <h1 style="color:#F4A261; margin-top: 15px;">Zoe Solis</h1>
+  
+  <p style="font-style: italic; color: #aaa;">
+    “Analizo sistemas para entender cómo funcionan, cómo fallan y cómo pueden mejorarse.”
+  </p>
 
-<table>
-<tr>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F4A261&center=true&vCenter=true&width=435&lines=Análisis+de+datos;Pensamiento+estratégico;Backend+en+formación;Gestión+IT;Sistemas+y+lógica" alt="Typing SVG" />
+</div>
 
-<td width="180" valign="top">
+---
 
-<img src="1777908943195.jpg" width="160"
-style="border-radius: 14px; border: 1px solid #333; box-shadow: 0 0 12px #000;" />
+### 💡 Identidad
+> Enfoque analítico y estructurado aplicado a sistemas reales. Interés en cómo los datos influyen en decisiones, procesos y tecnología.
 
-</td>
+---
 
-<td>
-
-<h1 style="color:#F4A261;">Zoe Solis</h1>
-
-<p style="color:#ccc;">
-Desarrolladora • Análisis de datos • Sistemas • Gestión IT
+### 🛠️ Stack Tecnológico
+<p align="center">
+  <!-- Usamos skillicons con un diseño más limpio (per-line o icons) -->
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,arduino,excel&theme=dark" />
 </p>
 
-<p>
-<img src="https://readme-typing-svg.herokuapp.com?color=F4A261&center=false&vCenter=true&lines=Análisis+de+datos;Pensamiento+estratégico;Backend+en+formación;Gestión+IT;Sistemas+y+lógica" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Logic-Systems-F4A261?style=flat-square&logo=diagrams.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-Hardware-1e1e1e?style=flat-square&logo=arduino&logoColor=F4A261" />
 </p>
 
-<p style="color:#999;">
-“Analizo sistemas para entender cómo funcionan, cómo fallan y cómo pueden mejorarse.”
-</p>
+---
 
-</td>
-</tr>
+### 🚀 Enfoque & Proyectos
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Especialidades:</strong>
+      <ul>
+        <li>Análisis de datos</li>
+        <li>Backend & Lógica</li>
+        <li>Automatización</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <strong>En Construcción:</strong>
+      <ul>
+        <li>Sistemas de lógica aplicada</li>
+        <li>Proyectos de automatización</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## <span style="color:#F4A261;">IDENTIDAD</span>
-
-Enfoque analítico y estructurado aplicado a sistemas reales.
-
-Interés en cómo los datos influyen en decisiones, procesos y tecnología.
-
----
-
-## <span style="color:#F4A261;">STACK TECNOLÓGICO</span>
-
+### 📩 Conectemos
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,sql,arduino" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/wxPython-1e1e1e?style=for-the-badge&logo=python&logoColor=F4A261" />
-<img src="https://img.shields.io/badge/Excel-1e1e1e?style=for-the-badge&logo=microsoft-excel&logoColor=green" />
-
-</p>
-
----
-
-## <span style="color:#F4A261;">ENFOQUE</span>
-
-- Análisis de datos  
-- Backend  
-- Sistemas de información  
-- Automatización  
-- Programación aplicada (Arduino / wxPython)  
-
----
-
-## <span style="color:#F4A261;">PROYECTOS</span>
-
-Actualmente en construcción.
-
-Áreas:
-- análisis de datos
-- automatización
-- lógica aplicada
-- sistemas simples
-
----
-
-## <span style="color:#F4A261;">NAVEGACIÓN</span>
-
-<p align="center">
-
-<a href="https://github.com/TUUSER?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositorios-1e1e1e?style=for-the-badge&logo=github&logoColor=F4A261"/>
-</a>
-
-<a href="https://www.linkedin.com/in/zoe-kiara-solis-a808b5227">
-  <img src="https://img.shields.io/badge/LinkedIn-1e1e1e?style=for-the-badge&logo=linkedin&logoColor=blue"/>
-</a>
-
-<a href="mailto:zoesolis.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Contacto-1e1e1e?style=for-the-badge&logo=gmail&logoColor=red"/>
-</a>
-
+  <a href="https://github.com/TUUSER">
+    <img src="https://img.shields.io/badge/-GitHub-1e1e1e?style=for-the-badge&logo=github&logoColor=F4A261" />
+  </a>
+  <a href="https://www.linkedin.com/in/zoe-kiara-solis-a808b5227">
+    <img src="https://img.shields.io/badge/-LinkedIn-1e1e1e?style=for-the-badge&logo=linkedin&logoColor=F4A261" />
+  </a>
+  <a href="mailto:zoesolis.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-1e1e1e?style=for-the-badge&logo=gmail&logoColor=F4A261" />
+  </a>
 </p>
