@@ -42,7 +42,6 @@
         <li>Sistemas Operativos</li>
         <li>Redes de Datos</li>
         <li>Metodologías ágiles</li>
-        <li>Entre otras</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -51,9 +50,20 @@
         <li>POO</li>
         <li>Estructura de Datos</li>
         <li>Desarrollo Web Full Stack</li>
-        <li>Inglés</li>
-        <li>Electronia</li>
-        <li>Data Science</li>
+        <li>Testing</li>
+        <li>Base de datos</li>
+        <li>Aplicaciones móviles</li>
+      </ul>
+    </td>
+       <td width="50%" valign="top">
+      <h4 style="color: #4361ee;">⏳ 3er Año (próximamente)</h4>
+      <ul style="font-size: 0.85em; color: #ccc;">
+        <li>Ciberseguridad</li>
+        <li>Programación avanzada</li>
+        <li>Ingeniería de datos</li>
+        <li>Data science</li>
+        <li>Innovación y tech</li>
+        <li>Derecho informático</li>
       </ul>
     </td>
   </tr>
