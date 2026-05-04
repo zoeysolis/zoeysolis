@@ -20,14 +20,6 @@
 <br/>
 
 <!-- SECCIÓN DINÁMICA: GITHUB STATS & SPOTIFY -->
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoeysolis&layout=compact&theme=vision-friendly-dark&colors=F4A261,7209b7,4361ee,ffffff" />
-  <a href="https://open.spotify.com/user/izoezo">
-    <img height="150" src="https://novatorem-spotify-player.vercel.app/api/now-playing?user=izoezo&theme=dark&bar_color=F4A261" />
-  </a>
-</p>
-
----
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/2991/2991165.png" width="20"/> Formación Académica
 **Tecnicatura Universitaria en Desarrollo de Software**
@@ -50,7 +42,7 @@
         <li>Sistemas Operativos</li>
         <li>Redes de Datos</li>
         <li>Metodologías ágiles</li>
-        <li>Programación I.....</li>
+        <li>...</li>
       </ul>
     </td>
     <td width="50%" valign="top">
