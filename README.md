@@ -95,7 +95,7 @@
 
 ---
 
-### 📩 Contacto
+###  Contacto
 <p align="center">
   <a href="https://www.linkedin.com/in/zoe-kiara-solis-a808b5227">
     <img src="https://img.shields.io/badge/-LinkedIn-4361ee?style=for-the-badge&logo=linkedin&logoColor=white" />
