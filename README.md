@@ -71,8 +71,7 @@
 
 ---
 
-### <img src="https://cdn-icons-png.flaticon.com/512/1085/1085461.png" width="20"/> Faceta Docente & Laboratorio
-**Skills**
+### <img src="https://cdn-icons-png.flaticon.com/512/1085/1085461.png" width="20"/> Skills & Laboratorio
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,arduino,raspberrypi,mysql,js,html,css&theme=dark" />
