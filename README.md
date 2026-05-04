@@ -92,8 +92,8 @@
 ### <img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="20"/> Proyectos Destacados
 -  **Recursos Docentes:** Repositorio en construcción con guías de Python.
 ### <img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="20"/> Proyectos Destacados
-- 📐 **[Binomio de Newton en Python](https://github.com/zoeysolis/binomio-newton-python):** Script de lógica matemática para el desarrollo de binomios paso a paso.
-- 📚 **Recursos Docentes:** Repositorio en construcción con guías de Python.
+-  **[Binomio de Newton en Python](https://github.com/zoeysolis/binomio-newton-python):** Script de lógica matemática para el desarrollo de binomios paso a paso.
+-  **Recursos Docentes:** Repositorio en construcción con guías de Python.
 -  **Automatización:** Proyectos de lógica aplicada y hardware.
 
 ---
