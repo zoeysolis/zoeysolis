@@ -33,7 +33,7 @@
 
 <table width="100%" border="0">
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h4 style="color: #F4A261;">✅ 1er Año (Promocionado)</h4>
       <ul style="font-size: 0.85em; color: #ccc;">
         <li>Arquitectura de Computadoras</li>
@@ -44,7 +44,7 @@
         <li>Metodologías ágiles</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h4 style="color: #4361ee;">⏳ 2do Año (Cursando)</h4>
       <ul style="font-size: 0.85em; color: #ccc;">
         <li>POO</li>
@@ -55,7 +55,7 @@
         <li>Aplicaciones móviles</li>
       </ul>
     </td>
-       <td width="50%" valign="top">
+       <td width="33%" valign="top">
       <h4 style="color: #4361ee;">⏳ 3er Año (próximamente)</h4>
       <ul style="font-size: 0.85em; color: #ccc;">
         <li>Ciberseguridad</li>
