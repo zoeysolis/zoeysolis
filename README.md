@@ -11,8 +11,8 @@
         Analizo sistemas para entender cómo funcionan, cómo fallan y cómo pueden mejorarse. 
         Mi enfoque une la <b>lógica programática</b> con la <b>electrónica aplicada</b>.
       </p>
-      <img src="https://img.shields.io/badge/Status-Cursando_2do_Año-4361ee?style=flat-square" />
-      <img src="https://img.shields.io/badge/Focus-Sistemas_y_Lógica-7209b7?style=flat-square" />
+      <img src="https://img.shields.io/badge/Estado-Cursando_2do_Año-4361ee?style=flat-square" />
+      <img src="https://img.shields.io/badge/Enfoque-Sistemas_y_Lógica-7209b7?style=flat-square" />
     </td>
   </tr>
 </table>
