@@ -84,15 +84,15 @@
 ---
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/2532/2532161.png" width="20"/> Compromiso & Intereses
-- 🌿 **Voluntaria en Greenpeace** 
-- 🎓 **Consejera Superior de la Facultad de Tecnología y Desarrollo (UNPilar)** 
-- 🏛️ **Democracia de Datos:** Seguimiento de procesos legislativos.
+-  **Voluntaria en Greenpeace** 
+-  **Consejera Superior de la Facultad de Tecnología y Desarrollo (UNPilar)** 
+-  **Democracia de Datos (seguimiento de procesos legislativos)**
 
 ---
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="20"/> Proyectos Destacados
-- 📚 **Recursos Docentes:** Repositorio en construcción con guías de Python.
-- 🤖 **Automatización:** Proyectos de lógica aplicada y hardware.
+-  **Recursos Docentes:** Repositorio en construcción con guías de Python.
+-  **Automatización:** Proyectos de lógica aplicada y hardware.
 
 ---
 
