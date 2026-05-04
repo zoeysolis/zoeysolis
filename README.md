@@ -91,6 +91,7 @@
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/1005/1005141.png" width="20"/> Proyectos Destacados
 
+- **[Explorador de Archivos Python](https://github.com/zoeysolis/explorador-archivos-python):** Herramienta de gestión de sistema de archivos con wxPython que permite navegar directorios, analizar metadatos y calcular tamaños en tiempo real.
 - **[Combate RPG por Turnos](https://github.com/zoeysolis/batalla-rpg-poo):** Simulador de batalla desarrollado en wxPython que implementa lógica de interacción entre objetos, manejo de estados y barras de salud dinámicas.
 - **[Gestión de Inventario CRUD](https://github.com/zoeysolis/inventario-python-crud):** Sistema de administración de stock con persistencia en SQLite3 y validación de datos.
 - **[Sistema de Gestión de Biblioteca](https://github.com/zoeysolis/gestion-biblioteca-poo):** Aplicación interactiva en wxPython que utiliza herencia y polimorfismo para administrar préstamos de libros y revistas.
