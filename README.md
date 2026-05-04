@@ -34,7 +34,7 @@
 <table width="100%" border="0">
   <tr>
     <td width="50%" valign="top">
-      <h4 style="color: #F4A261;">✅ 1er Año (Completado)</h4>
+      <h4 style="color: #F4A261;">✅ 1er Año (Promocionado)</h4>
       <ul style="font-size: 0.85em; color: #ccc;">
         <li>Arquitectura de Computadoras</li>
         <li>Lógica y Fundamentos</li>
@@ -42,13 +42,13 @@
         <li>Sistemas Operativos</li>
         <li>Redes de Datos</li>
         <li>Metodologías ágiles</li>
-        <li>...</li>
+        <li>Entre otras</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4 style="color: #4361ee;">⏳ 2do Año (Cursando)</h4>
       <ul style="font-size: 0.85em; color: #ccc;">
-        <li><b>POO</b> (Programación Orientada a Objetos)</li>
+        <li>POO</li>
         <li><b>Estructura de Datos</b></li>
         <li><b>Desarrollo Web Full Stack</b></li>
         <li>Taller de Inglés</li>
