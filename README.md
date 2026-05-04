@@ -1,29 +1,28 @@
+
 <table>
 <tr>
 
 <td width="180" valign="top">
 
 <img src="1777908943195.jpg" width="160"
-style="border-radius: 12px; border: 1px solid #444; box-shadow: 0 0 10px #000;" />
+style="border-radius: 14px; border: 1px solid #333; box-shadow: 0 0 12px #000;" />
 
 </td>
 
 <td>
 
-<h1>Zoe Solis</h1>
+<h1 style="color:#F4A261;">Zoe Solis</h1>
 
-<p>
+<p style="color:#ccc;">
 Desarrolladora • Análisis de datos • Sistemas • Gestión IT
 </p>
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?color=F4A261&center=false&vCenter=true&lines=Análisis+de+datos;Pensamiento+estratégico;Backend+en+formación;Gestión+IT;Construcción+de+sistemas" />
+<img src="https://readme-typing-svg.herokuapp.com?color=F4A261&center=false&vCenter=true&lines=Análisis+de+datos;Pensamiento+estratégico;Backend+en+formación;Gestión+IT;Sistemas+y+lógica" />
 </p>
 
----
-
-<p>
-“Analizo sistemas para entender cómo funcionan, cómo fallan y cómo mejorarlos.”
+<p style="color:#999;">
+“Analizo sistemas para entender cómo funcionan, cómo fallan y cómo pueden mejorarse.”
 </p>
 
 </td>
@@ -32,45 +31,46 @@ Desarrolladora • Análisis de datos • Sistemas • Gestión IT
 
 ---
 
-## PERFIL
+## <span style="color:#F4A261;">IDENTIDAD</span>
 
-Trabajo desde un enfoque analítico y estructurado.
+Enfoque analítico y estructurado aplicado a sistemas reales.
 
-Mi interés en tecnología nace del análisis de sistemas y del impacto de la información en la toma de decisiones.
-
-Me especializo en entender datos, procesos y lógica aplicada a sistemas reales.
+Interés en cómo los datos influyen en decisiones, procesos y tecnología.
 
 ---
 
-## ENFOQUE
+## <span style="color:#F4A261;">STACK TECNOLÓGICO</span>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,sql,arduino" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/wxPython-1e1e1e?style=for-the-badge&logo=python&logoColor=F4A261" />
+<img src="https://img.shields.io/badge/Excel-1e1e1e?style=for-the-badge&logo=microsoft-excel&logoColor=green" />
+
+</p>
+
+---
+
+## <span style="color:#F4A261;">ENFOQUE</span>
 
 - Análisis de datos  
 - Backend  
-- Inteligencia artificial  
-- Gestión de sistemas  
+- Sistemas de información  
+- Automatización  
+- Programación aplicada (Arduino / wxPython)  
 
 ---
 
-## STACK
+## <span style="color:#F4A261;">PROYECTOS</span>
 
-<table>
-<tr>
-<td>Python</td>
-<td>JavaScript</td>
-<td>SQL</td>
-<td>HTML</td>
-<td>CSS</td>
-<td>Excel</td>
-</tr>
-</table>
+Actualmente en construcción.
 
----
-
-## PROYECTOS
-
-En desarrollo.
-
-Actualmente construyendo repositorios orientados a:
+Áreas:
 - análisis de datos
 - automatización
 - lógica aplicada
@@ -78,14 +78,20 @@ Actualmente construyendo repositorios orientados a:
 
 ---
 
-## NAVEGACIÓN
+## <span style="color:#F4A261;">NAVEGACIÓN</span>
 
-- Repositorios: https://github.com/TUUSER?tab=repositories  
-- LinkedIn: https://www.linkedin.com/in/zoe-kiara-solis-a808b5227  
-- Portfolio: en construcción  
+<p align="center">
 
----
+<a href="https://github.com/TUUSER?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositorios-1e1e1e?style=for-the-badge&logo=github&logoColor=F4A261"/>
+</a>
 
-## CONTACTO
+<a href="https://www.linkedin.com/in/zoe-kiara-solis-a808b5227">
+  <img src="https://img.shields.io/badge/LinkedIn-1e1e1e?style=for-the-badge&logo=linkedin&logoColor=blue"/>
+</a>
 
-zoesolis.dev@gmail.com
+<a href="mailto:zoesolis.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Contacto-1e1e1e?style=for-the-badge&logo=gmail&logoColor=red"/>
+</a>
+
+</p>
