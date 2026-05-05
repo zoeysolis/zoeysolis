@@ -34,7 +34,7 @@
 <table width="100%" border="0" style="margin: 0 auto; display: table;">
   <tr>
     <td width="33%" valign="top">
-      <h4 style="color: #F4A261;">✅ 1er Año (Promocionado)</h4>
+      <h4 style="color: #F4A261;"> 1er Año (Promocionado)</h4>
       <ul style="font-size: 0.85em; color: #ccc;">
         <li>Arquitectura de Computadoras</li>
         <li>Lógica y Fundamentos</li>
@@ -45,7 +45,7 @@
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h4 style="color: #4361ee;">⏳ 2do Año (Cursando)</h4>
+      <h4 style="color: #4361ee;"> 2do Año (Cursando)</h4>
       <ul style="font-size: 0.85em; color: #ccc;">
         <li>POO</li>
         <li>Estructura de Datos</li>
@@ -56,7 +56,7 @@
       </ul>
     </td>
        <td width="33%" valign="top">
-      <h4 style="color: #4361ee;">⏳ 3er Año (próximamente)</h4>
+      <h4 style="color: #4361ee;"> 3er Año (próximamente)</h4>
       <ul style="font-size: 0.85em; color: #ccc;">
         <li>Ciberseguridad</li>
         <li>Programación avanzada</li>
