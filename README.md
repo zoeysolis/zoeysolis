@@ -1,9 +1,6 @@
 <!-- ENCABEZADO: IMAGEN Y PRESENTACIÓN -->
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="180" align="center" valign="middle">
-      <img src="1777908943195.jpg" width="160" style="border-radius: 25px; border: 3px solid #F4A261; box-shadow: 0 8px 25px rgba(114, 9, 183, 0.3);" />
-    </td>
     <td valign="top" style="padding-left: 25px;">
       <h1 style="color:#F4A261; border-bottom: none; margin-bottom: 5px;">Hola! soy Zoe</h1>
       <p style="color: #7209b7; font-weight: bold; margin-top: 0;">Programación & Robótica | Estudiante de Gestión IT | Desarrollo de Software</p>
